@@ -1,0 +1,10 @@
+{
+  "name": "optimal-cultist",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "cultist": "node cultist.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
