@@ -4,8 +4,6 @@ const trophy = {
     maxStacks: 14,
 }
 
-const trophyReturn = (t, stacks) => (stacks * trophy.soulsPerMin);
-
 const findReturnTime = (stacksPerMin) => {
     let investment = trophy.cost;
     let time = 0;
