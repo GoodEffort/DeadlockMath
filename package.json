@@ -3,7 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "cultist": "node cultist.js"
+    "cultist": "node cultist.js",
+    "trophy": "node trophy.js"
   },
   "author": "",
   "license": "ISC"
